@@ -4,7 +4,7 @@
 #
 Name     : dpcontracts
 Version  : 0.6.0
-Release  : 21
+Release  : 22
 URL      : https://files.pythonhosted.org/packages/aa/e2/cad64673297a634a623808045d416ed85bad1c470ccc99e0cdc7b13b9774/dpcontracts-0.6.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/aa/e2/cad64673297a634a623808045d416ed85bad1c470ccc99e0cdc7b13b9774/dpcontracts-0.6.0.tar.gz
 Summary  : A simple implementation of contracts for Python.
@@ -60,7 +60,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1603391555
+export SOURCE_DATE_EPOCH=1635725749
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
 export FCFLAGS="$FFLAGS -fno-lto "
