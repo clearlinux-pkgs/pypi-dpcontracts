@@ -4,7 +4,7 @@
 #
 Name     : dpcontracts
 Version  : 0.6.0
-Release  : 22
+Release  : 23
 URL      : https://files.pythonhosted.org/packages/aa/e2/cad64673297a634a623808045d416ed85bad1c470ccc99e0cdc7b13b9774/dpcontracts-0.6.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/aa/e2/cad64673297a634a623808045d416ed85bad1c470ccc99e0cdc7b13b9774/dpcontracts-0.6.0.tar.gz
 Summary  : A simple implementation of contracts for Python.
